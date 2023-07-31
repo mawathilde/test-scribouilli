@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 2
+order: 1
 ---
 # Contact
 
