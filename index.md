@@ -1,5 +1,6 @@
 ---
-title: Accueil
+title: "Accueil"
+order: 1
 ---
 # L'Échappée Belle
 
